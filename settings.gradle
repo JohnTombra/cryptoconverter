@@ -1,0 +1,2 @@
+rootProject.name = "CryptoSquash"
+include ':app'
